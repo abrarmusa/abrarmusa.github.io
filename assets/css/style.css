@@ -813,6 +813,7 @@ body{margin: 0px !important;}
 .hi p{
 	font-size: 25px;
 	line-height: 30px !important;
+  color:black;
 }
 
 @media (min-width: 1500px){
